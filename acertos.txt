@@ -1,0 +1,95 @@
+Bom dia Fábio,
+
+Tentei te mandar os dados dos testes que fiz ontem, mas deu 
+um problema no mail, e não consegui, vamos ver se consigo 
+desta vez, vou mandar alguns "erros e detalhes"que estão 
+faltando, vc veja se consegue fazer algo neste final de 
+semana, e no proximo sábado(03/07/04) a gente vê se dá certo 
+de vc vir para vermos o restante juntos ok? Agora abaixo vou 
+disccriminar o que detectei.
+
+FINALIZAÇÃO DO PEDIDO DE VENDA:
+ERRO: UNKNOWN MEMBER FDESCONTO
+SE CANCELO O SISTEMA SAI PROGRAMA, SE IGNORO VOLTA A MESMA 
+TELA.
+
+Resp: Deve funconar agora...
+
+
+DEVE CONTER NOS PEDIDOS O NUMERO, E SE EXISTIR UMA TELA ONDE 
+CONSTE TODOS OS PEDIDOS EMITIDOS, QUAL SERIA? PRECISAVA SABER 
+COMO SE BAIXA ESSES PEDIDOS? JA ENTRA AUTOMATICAMENTE NO 
+CONTAS A RECEBER?
+
+Resp. Entra direto no contas a receber e para cancelar um pedido:
+      1- MENU mOVIMENTAÇÕES
+      2 - CANCELAR VENDAS
+      3 - DIGITAR O NMERO DO PEDIDO E SE NAO TIVER O NUMERO CLICAR NO BOTAO 
+          PESQUISAR QUE ABRE UMA TELA PARA PESQUISA POR CLIENTE E DEPOIS DE ESCOLHER O 
+          CLIENTE, ELE MOSTRARÁ OS PEDIDOS DO CLIENTE E AÍ É ESCOLHER O PEDIDO 
+          E CLICAR NO BOTAO RETORNAR.
+  
+      Se for caso de baixar por pagamento do cliente, então deverá clicar 
+      1 - Menu Movimentações
+      2 - Fechamento de clientes
+      3 - Escolher o cliente e baixar o pedido. Após serem feitas algumas vendas, estará disponivel para
+          consulta e baixa.
+
+ENTRADA DE MERCADORIA:
+DUPLICAR A FORMA DE PAGAMENTO, POIS EXISTEM TITULOS QUE O 
+VENCIMENTO É DUPLICADO.
+
+Resp. Acertado.
+
+
+NO PEDIDO DE COMPRA, TAMBEM PRECISA CONTER NUMERO E POSIÇÃO 
+DE PEDIDOS BAIXADOS, PARA UM MAIOR CONTROLE.
+
+Resp. Não entendi.
+
+
+NO PEDIDO DE COMPRA ESTÁ ENTRANDO MAIS DE UMA VEZ O MESMO 
+PRODUTO, NÃO PODE ACONTECER, POIS NA CORRERIA DO DIA, POSSO 
+DUPLICAR O PRODUTO, E ISSO PODERA ME CAUSAR PROBLEMAS NO 
+ESTOQUE, TAMBEM NAO CONSIGO CANCELAR UM PRODUTO CASO TENHA 
+DIGITADO ERRADO.
+
+Resp. Para cancelar o produto, é só clicar com o mouse bem a esquerda do produto na
+      grade de produtos, logo apos a barrinha cinza tem uma branca que fica preta quado
+      se clica em cima e depois a linha é apagada. Experimente.
+      Quanto a checar se foi digitado duas vezes já está feito também, 
+      mas seria uma boa ideia conferir o total da nota voce nao acha?
+   
+
+DEPOIS DOS AJUSTES QUE VC ME MANDOU, FIZ UM PEDIDO DE COMPRA, 
+O PROGRAMA ME INFORMOU QUE FOI EXECUTADO COM SUCESSO, ENTREI 
+
+NO REL. CONTAS A PAGAR, NAO ENCONTREI O TÍTULO DAQUELA 
+COMPRA, ENTREI NO CADASTRO DE PRODUTO, E O MESMO ESTAVA COM 
+ESTOQUE ATUAL ZERADO. O QUE PODERIA TER ACONTECIDO?
+
+Resp. Já arrumei o estoque.
+
+NO CASO DOS CALCULOS DAS PLACAS, BLOQUETES E CHAPAS DE DRY-
+WALL:
+
+O CALCULO DEVE SER EFETUADO DA SEGUINTE FORMA:
+EX. 30 MTS DE PLACAS 60X60 CORRESPONDE A 83.33 PLACAS, ISSO 
+NÃO PODE OCORRER, PORQUE NÃO CONSIGO CORTAR 0.33 CM A PLACA.
+O PROGRAMA DEVERA ARREDONDAR A METRAGEM PARA QUE POSSAMOS 
+ATENDER O CLIENTE. ENTÃO DEVE SER ASSIM:
+30.24 MTS CORREPONDE A 84 PLACAS. ASSIM TAMBEM TEM QUE SER 
+PARA OS DEMAIS JA MENCIONADOS ACIMA.
+
+
+Resp. Acertado, verifique fazendo uma venda.
+
+
+Por enquanto vai ser so, divirta-se neste final de semana, e 
+segunda a gente se fala,
+
+Um abraço,
+
+Elaine.
+
+ 

@@ -1,0 +1,46 @@
+
+          Empresa Demo   
+          ============   
+                               Av.Guarulhos, 550
+                              Telefone: 6461-5004
+
+                         Pedido de Venda no.: 000000089
+Vendedor:MASTER      
+--------------------------------------------------------------------------------
+
+Cliente:   CONSUMIDOR - DE TESTES - DO FABI          
+Endereço:VAI TOMAR CAJU                    
+CGC/CPF:   .   .   /    -                        Insc. Est.:                     
+Bairro:                                          CEP:         
+Cidade:                                          Estado: SP
+Contato:                                                   
+Fone 1:                                          Fone 2:             
+
+--------------------------------------------------------------------------------
+Codigo Desc.Produto                            Qtd   Qtd.A  Pço.Unit. Total Item
+--------------------------------------------------------------------------------
+000069 PLACA LISA 60X60                      20.00   56.00      2.12       42.40
+--------------------------------------------------------------------------------
+
+Total de Itens:      1                               Total do pedido:      42.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

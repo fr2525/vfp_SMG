@@ -1,0 +1,7 @@
+SELECT Tab_prod.descricao, Tab_itve.qtde, Tab_itve.precounit,;
+  Tab_itve.valortot;
+ FROM  dbsgl!tab_itve INNER JOIN dbsgl!tab_prod ;
+   ON  Tab_itve.codprod = Tab_prod.codprod;
+ WHERE Tab_itve.datatual >= CTOD("01/01/2004");
+   AND Tab_itve.datatual <= CTOD("31/05/2004");
+ INTO CURSOR Qvendas

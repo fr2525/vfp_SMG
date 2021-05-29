@@ -1,0 +1,4 @@
+[dbase]
+MEMOFILE=tab_clie.FPT
+MDX=tab_clie.CDX
+UIDX=CODCLI

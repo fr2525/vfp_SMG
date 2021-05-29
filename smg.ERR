@@ -1,0 +1,18 @@
+Form d:\aplics\vfp9\smg\forms\fvendas.scx has the following errors:
+    Unknown F_CABE - Undefined
+    Form FSENHA - Undefined
+
+Form d:\aplics\vfp9\smg\forms\ffimvenda.scx has the following errors:
+    Unknown F_CABE - Undefined
+
+Visual Class Library d:\aplics\vfp9\classes\reposito.vcx has the following errors:
+    Proc./Func. VALIDAR_BASEDATOS - Undefined
+    Unknown DECRYPT - Undefined
+    Unknown ENCRYPT - Undefined
+
+Visual Class Library d:\aplics\vfp9\classes\controls.vcx has the following errors:
+    Menu PAINEL - Undefined
+
+Visual Class Library d:\aplics\vfp9\classes\frclass.vcx has the following errors:
+    Form SPLASH - Undefined
+
